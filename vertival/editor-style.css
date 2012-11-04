@@ -1,0 +1,17 @@
+/*
+Theme Name: Vertival
+*/
+/*
+Usare questo CSS per customizzare il TinyMCE Editor.
+*/
+
+html body.vt_bullet_list p {
+	padding-left: 20px;
+	margin-bottom:20px;
+	background: url('bullet_2.png') top left no-repeat;
+}
+
+#vt-meta-box-slide .button {
+	height: 40px;
+	background-color: red;
+}
